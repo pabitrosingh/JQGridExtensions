@@ -1,9 +1,0 @@
-.nuget/
-*.sln.ide/
-packages/
-PublishProfiles/
-.vs/
-*net45.csproj
-*net451.csproj
-*k10.csproj
-.vscode/
