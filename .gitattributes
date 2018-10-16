@@ -1,8 +1,8 @@
+
 *.cs linguist-detectable=true
+
 *.cs linguist-language=csharp
+
 *.cshtml linguist-detectable=true
+
 *.cshtml linguist-language=asp.net mvc
-
-JQGridDemo/Assets/* linguist-vendored
-
-
