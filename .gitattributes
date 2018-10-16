@@ -1,6 +1,3 @@
 
-*.cs linguist-detectable=true
-*.cshtml linguist-detectable=true
-*.cs     diff=csharp
-*.csproj text=auto
-*.sln text=auto eol=crlf
+*.cs linguist-language=csharp
+*.cshtl linguist-language=asp.net mvc
