@@ -1,16 +1,6 @@
-# Auto detect text files and perform LF normalization
-# http://davidlaing.com/2012/09/19/customise-your-gitattributes-to-become-a-git-ninja/
-* text=auto
 
+*.cs linguist-detectable=true
+*.cshtml linguist-detectable=true
 *.cs     diff=csharp
-*.jpg  	binary
-*.png 	binary
-*.gif 	binary
-
-*.cs text=auto diff=csharp 
-*.html text=auto
-*.css text=auto
-*.js text=auto
-*.sql text=auto
 *.csproj text=auto
 *.sln text=auto eol=crlf
