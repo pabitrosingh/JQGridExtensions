@@ -3,3 +3,14 @@
 * text=auto
 
 *.cs     diff=csharp
+*.jpg  	binary
+*.png 	binary
+*.gif 	binary
+
+*.cs text=auto diff=csharp 
+*.html text=auto
+*.css text=auto
+*.js text=auto
+*.sql text=auto
+*.csproj text=auto
+*.sln text=auto eol=crlf
