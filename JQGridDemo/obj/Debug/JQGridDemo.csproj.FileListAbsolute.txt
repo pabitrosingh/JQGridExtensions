@@ -1,0 +1,99 @@
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\JQGridDemo.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\JQGridDemo.pdb
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\Newtonsoft.Json.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Net.Http.Formatting.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.Helpers.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.Http.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.Http.WebHost.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.Mvc.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.Razor.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Deployment.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Razor.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\Newtonsoft.Json.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Net.Http.Formatting.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.Helpers.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.Http.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.Http.WebHost.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.Mvc.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.Razor.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Deployment.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Razor.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\obj\Debug\JQGridDemo.csprojResolveAssemblyReference.cache
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\obj\Debug\JQGridDemo.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\obj\Debug\JQGridDemo.pdb
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\EntityFramework.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\EntityFramework.SqlServer.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\EntityFramework.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\EntityFramework.SqlServer.xml
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\JQGridExtensions.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridDemo\bin\JQGridExtensions.pdb
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\JQGridDemo.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\JQGridDemo.pdb
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\EntityFramework.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\EntityFramework.SqlServer.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\JQGridExtensions.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\Microsoft.Web.Infrastructure.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\Newtonsoft.Json.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Net.Http.Formatting.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Helpers.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Http.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Http.WebHost.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Mvc.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Razor.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Deployment.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Razor.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\JQGridExtensions.pdb
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\EntityFramework.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\EntityFramework.SqlServer.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\Newtonsoft.Json.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Net.Http.Formatting.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Helpers.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Http.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Http.WebHost.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Mvc.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Razor.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Deployment.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Razor.xml
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\obj\Debug\JQGridDemo.csprojResolveAssemblyReference.cache
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\obj\Debug\JQGridDemo.dll
+\\192.168.1.217\Pabitro_Shared\JQGridExtensions\JQGridDemo\obj\Debug\JQGridDemo.pdb
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\JQGridDemo.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\JQGridDemo.pdb
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\EntityFramework.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\EntityFramework.SqlServer.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\JQGridExtensions.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\Newtonsoft.Json.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Net.Http.Formatting.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Helpers.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Http.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Http.WebHost.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Mvc.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Razor.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Razor.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\JQGridExtensions.pdb
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\EntityFramework.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\EntityFramework.SqlServer.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\Newtonsoft.Json.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Net.Http.Formatting.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Helpers.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Http.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Http.WebHost.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Mvc.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.Razor.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\bin\System.Web.WebPages.Razor.xml
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\obj\Debug\JQGridDemo.csprojResolveAssemblyReference.cache
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\obj\Debug\JQGridDemo.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridDemo\obj\Debug\JQGridDemo.pdb

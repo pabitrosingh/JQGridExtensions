@@ -1,0 +1,8 @@
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridExtensions\bin\Debug\JQGridExtensions.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridExtensions\bin\Debug\JQGridExtensions.pdb
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridExtensions\obj\Debug\JQGridExtensions.dll
+c:\users\qipl143\documents\visual studio 2012\Projects\JQGridExtensions\JQGridExtensions\obj\Debug\JQGridExtensions.pdb
+D:\Pabitro_Shared\JQGridExtensions\JQGridExtensions\bin\Debug\JQGridExtensions.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridExtensions\bin\Debug\JQGridExtensions.pdb
+D:\Pabitro_Shared\JQGridExtensions\JQGridExtensions\obj\Debug\JQGridExtensions.dll
+D:\Pabitro_Shared\JQGridExtensions\JQGridExtensions\obj\Debug\JQGridExtensions.pdb

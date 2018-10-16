@@ -1,0 +1,157 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Assets/Themes/cupertino/jquery-ui.css" rel="stylesheet" />
+    <link href="~/Assets/Themes/cupertino/theme.css" rel="stylesheet" />
+    <link href="~/Assets/JQGrid/ui.jqgrid-4.7.0.css" rel="stylesheet" />
+    <style>
+        .ui-jqgrid .loading {
+        background: url("../../Assets/Images/loading.gif");
+        border-style: none;
+        background-repeat: no-repeat;
+        width:200px;
+        height:200px;
+    }
+    </style>
+</head>
+<body>
+    <div>
+        <table id="IDTblDeptGrid"></table>
+        <div id="IDDivPager"></div>
+    </div>
+</body>
+</html>
+<script src="~/Assets/JQuery/jquery-3.3.1.js"></script>
+<script src="~/Assets/JQueryUI/jquery-ui.js"></script>
+<script src="~/Assets/JQGrid/jquery.jqGrid-4.7.1.js"></script>
+<script src="~/Assets/JQGrid/grid.locale-en.js"></script>
+<script src="~/Assets/JS/SalesController.js"></script>
+<script>
+    $(function () {
+        //$.CreateDeptGrid();
+
+        $("#IDTblDeptGrid").jqGrid({
+            caption: "Employee",
+            url: "/Employee/GetEmployeeCollection",
+            datatype: 'json', //xml if xml data 
+            mtype: "GET",
+            width: 900,
+            height: 500,
+            rowNum: 5,
+            rowList: [5, 10, 30, 60, 90, 100],
+            hidegrid: false,
+            loadonce: false,
+            rownumbers: true,
+            viewrecords: true,
+            pager: "#IDDivPager",
+            sortname: "EmpID",
+            //sortorder:"desc",
+            colModel: [
+               {
+                   label: 'Emp ID',
+                   name: 'EmpID',
+                   align: 'center',
+                   index: "EmpID",
+                   width: 30,
+                   resizable: true,
+                   sortable: true,
+                   search: true,
+                   searchoptions: {
+                       sopt: ["eq", "ne", "lt","le", "gt","ge","bw","bn" ,"In", "ni" ,"ew","en","cn","nc","nu","nn"]
+                   }
+               },
+            {
+                label: 'Name',
+                name: 'Name',
+                align: 'center',
+                width: 30,
+                resizable: true,
+                sortable: true,
+                search: true,
+                searchoptions: {
+                    sopt: ["eq", "ne", "lt", "le", "gt", "ge", "bw", "bn", "In", "ni", "ew", "en", "cn", "nc", "nu", "nn"]
+                }
+            },
+            {
+                label: 'Gender',
+                name: 'Gender',
+                align: 'center',
+                width: 30,
+                resizable: true,
+                sortable: true,
+                search: true,
+                searchoptions: {
+                    sopt: ["eq", "ne", "lt", "le", "gt", "ge", "bw", "bn", "In", "ni", "ew", "en", "cn", "nc", "nu", "nn"]
+                }
+            },
+            {
+                label: 'Salary',
+                name: 'Salary',
+                align: 'center',
+                width: 30,
+                resizable: true,
+                sortable: true,
+                search: true,
+                searchoptions: {
+                    sopt: ["eq", "ne", "lt", "le", "gt", "ge", "bw", "bn", "In", "ni", "ew", "en", "cn", "nc", "nu", "nn"]
+                }
+            },
+            {
+                label: 'BirthDate',
+                name: 'BirthDate',
+                align: 'center',
+                width: 30,
+                formatter: "date",
+                resizable: true,
+                sortable: true,
+                search: true,
+                searchoptions: {
+                    sopt: ["eq", "ne", "lt","le", "gt","ge","bw","bn" ,"In", "ni" ,"ew","en","cn","nc","nu","nn"],
+                    dataInit: function (elem) {
+                        $(elem).datepicker({});
+                    },
+                }
+            }],
+
+            loadComplete: function (data) {
+                console.log("grid Load Completed"); console.log(data);
+            },
+            gridComplete: function () {
+                console.log("Grid Completed")
+            },
+            loadError: function (xhr, status, error) {
+                console.log("Code:" + xhr.status);
+                console.log("Status:" + status);
+                console.log("Msg:" + error);
+            },
+            jsonReader: {
+                root: "root",
+                page: "page",
+                total: "total",
+                records: "records",
+                repeatitems: false,
+            }
+        });
+
+        $("#IDTblDeptGrid").filterToolbar({
+            stringResult: true,
+            searchOnEnter: true,
+            searchOperators: true
+        });
+
+
+        //AdvancedSearch/SimpleSearch
+        $("#IDTblDeptGrid").navGrid("#IDDivPager", {}, {}, {}, {}, {
+            multipleSearch: true,
+            multipleGroup: true,
+            showQuery: true
+        });
+    });
+</script>
