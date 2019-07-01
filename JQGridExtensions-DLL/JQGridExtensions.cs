@@ -651,6 +651,8 @@ namespace JQGridExtensions
         {
             MethodInfo _method = typeof(string).GetMethod("Contains", new Type[] { typeof(string) });
             return Expression.Call(Expression.Call(me, "ToString", Type.EmptyTypes), _method, ce);
+             //----New code-----//
+            //return Expression.Call(Expression.Call(Expression.Call(me, "ToString", Type.EmptyTypes), "ToUpper", Type.EmptyTypes), _method1, Expression.Call(Expression.Call(ce, "ToString", Type.EmptyTypes), "ToUpper", Type.EmptyTypes));
         }
 
         /// <summary>
@@ -663,6 +665,9 @@ namespace JQGridExtensions
         {
             MethodInfo _method = typeof(string).GetMethod("Contains", new Type[] { typeof(string) });
             return Expression.IsFalse(Expression.Call(Expression.Call(me, "ToString", Type.EmptyTypes), _method, ce));
+            //----New code-----//
+            //return Expression.Call(Expression.Call(Expression.Call(me, "ToString", Type.EmptyTypes), "ToUpper", Type.EmptyTypes), _method1, Expression.Call(Expression.Call(ce, "ToString", Type.EmptyTypes), "ToUpper", Type.EmptyTypes));
+
         }
 
 
